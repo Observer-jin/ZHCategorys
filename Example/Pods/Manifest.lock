@@ -1,0 +1,16 @@
+PODS:
+  - ZHCategorys (0.1.0)
+
+DEPENDENCIES:
+  - ZHCategorys (from `../`)
+
+EXTERNAL SOURCES:
+  ZHCategorys:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZHCategorys: 06b686964e07783e6dce79b575989f9fbc0cb349
+
+PODFILE CHECKSUM: 1565338fd5201b9971d92bd4829c12436e4ec497
+
+COCOAPODS: 1.8.4

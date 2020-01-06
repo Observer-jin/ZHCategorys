@@ -1,0 +1,6 @@
+framework module ZHCategorys {
+  umbrella header "ZHCategorys-umbrella.h"
+
+  export *
+  module * { export * }
+}
