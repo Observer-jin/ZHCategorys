@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'ZHCategorys_Example' do
+  pod 'ZHCategorys', :path => '../'
+
+  target 'ZHCategorys_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
