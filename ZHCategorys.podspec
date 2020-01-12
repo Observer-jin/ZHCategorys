@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
                 一些工具，用于简化日常工作
                 DESC
 
-  s.homepage         = 'https://github.com/guichongsui@163.com/ZHCategorys'
+  s.homepage         = 'https://github.com/Observer-jin/ZHCategorys.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'guichongsui' => 'guichongsui@163.com' }
-  s.source           = { :git => 'https://github.com/guichongsui@163.com/ZHCategorys.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Observer-jin/ZHCategorys.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
