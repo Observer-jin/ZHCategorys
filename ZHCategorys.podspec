@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZHCategorys'
-  s.version          = '0.1.0'
+  s.version          = '0.0.1'
   s.summary          = 'ZHCategorys'
 
 # This description is used to generate tags and improve search results.
@@ -30,8 +30,12 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'ZHCategorys/Classes/**/*'
-  
+ s.source_files = 'ZHCategorys/Classes/**/*'
+#  s.source_files = 'ZHCategorys/Classes/ZHCategorys.h'
+#  s.public_header_files = 'ZHCategorys/Classes/ZHCategorys.h'
+
+  # s.source_files = 'ZHCategorys/Classes/ZHCategorys.h'
+
   # s.resource_bundles = {
   #   'ZHCategorys' => ['ZHCategorys/Assets/*.png']
   # }
